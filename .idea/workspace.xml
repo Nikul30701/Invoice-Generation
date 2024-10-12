@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ce5c381-19fb-418c-9a97-4e5c9786f500" name="Changes" comment="Add an invoice date">
+    <list default="true" id="5ce5c381-19fb-418c-9a97-4e5c9786f500" name="Changes" comment="Add a Table">
+      <change afterPath="$PROJECT_DIR$/pythonhow.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PDFs/10001-2023.1.18.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PDFs/10001-2023.1.18.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PDFs/10002-2023.1.18.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PDFs/10002-2023.1.18.pdf" afterDir="false" />
@@ -132,13 +133,22 @@
       <option name="project" value="LOCAL" />
       <updated>1728742698486</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add a Table">
+      <option name="closed" value="true" />
+      <created>1728744600401</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728744600401</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Load the excel files into dataframes" />
     <MESSAGE value="Create a minimal PDF for each Excel files" />
     <MESSAGE value="Add an invoice date" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add an invoice date" />
+    <MESSAGE value="Add a Table" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add a Table" />
   </component>
 </project>
