@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ce5c381-19fb-418c-9a97-4e5c9786f500" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/App4_invoice_generation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/invoices/10001-2023.1.18.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/invoices/10002-2023.1.18.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/invoices/10003-2023.1.18.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="5ce5c381-19fb-418c-9a97-4e5c9786f500" name="Changes" comment="Load the excel files into dataframes">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +93,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728733580714</updated>
     </task>
+    <task id="LOCAL-00001" summary="Load the excel files into dataframes">
+      <option name="closed" value="true" />
+      <created>1728739114529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728739114529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Load the excel files into dataframes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Load the excel files into dataframes" />
   </component>
 </project>
