@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 from fpdf import FPDF
 from pathlib import Path
-
+# glob modules makes an object global across the module in which it is declared, but it still belongs to that module.
 filepaths = glob.glob("invoices/*.xlsx")
 
 for filepath in filepaths:
